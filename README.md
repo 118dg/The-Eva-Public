@@ -31,6 +31,6 @@
 ----------------------------------------
 ## 🎬 Movie
 
-[Fantag Youtube](https://www.youtube.com/channel/UC2ng9E9-eNAoeyDtw7vaQMQ/featured)
+[Fantag Youtube](https://www.youtube.com/channel/UC2ng9E9-eNAoeyDtw7vaQMQ/featured)   
 [THE EVA: The Origin Story 1](https://www.youtube.com/watch?v=KTuRhlhKRvY)   
 [THE EVA: The Origin Story 2](https://youtu.be/gy6Zb1GtndY)   
