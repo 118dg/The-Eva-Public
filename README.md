@@ -21,10 +21,11 @@
 ----------------------------------------
 ![색상테스트](https://user-images.githubusercontent.com/54856465/121237723-52a27d00-c8d2-11eb-9c7f-8251d58967c1.png)
 ![행성테스트](https://user-images.githubusercontent.com/54856465/121237736-559d6d80-c8d2-11eb-947f-db97109e9aad.png)
-![게임북](https://user-images.githubusercontent.com/54856465/121237713-4fa78c80-c8d2-11eb-9dfb-d15f93c34e1c.png)
 
 ----------------------------------------
 ## 📚 Game-book
+![게임북](https://user-images.githubusercontent.com/54856465/121237713-4fa78c80-c8d2-11eb-9dfb-d15f93c34e1c.png)
+
 [게임북]() - 곧 출시됩니다
 
 ----------------------------------------
